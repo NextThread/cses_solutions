@@ -1,1 +1,1 @@
-# cses_solutions
+# CSES
